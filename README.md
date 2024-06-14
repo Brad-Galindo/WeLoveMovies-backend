@@ -3,7 +3,8 @@
 ```markdown
 # Movie Review Backend
 
-This is the backend of the Movie Review application, built with Express.js. It provides RESTful APIs for managing movies and reviews.
+This is the backend of the Movie Review application, built with Express.js.
+It provides RESTful APIs for managing movies and reviews.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
