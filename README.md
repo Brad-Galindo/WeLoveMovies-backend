@@ -46,17 +46,6 @@ npx knex migrate:latest
 npm start
 The backend server will be running on http://localhost:5001.
 
-
-API Endpoints
-
-GET /api/movies: Fetch all movies.
-GET /api/movies/:id: Fetch a movie by ID.
-POST /api/movies: Add a new movie.
-GET /api/reviews: Fetch all reviews.
-GET /api/reviews/:id: Fetch a review by ID.
-POST /api/reviews: Add a new review.
-
-
 Built With
 Express.js
 Knex.js
